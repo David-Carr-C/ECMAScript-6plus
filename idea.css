@@ -1,0 +1,53 @@
+* {
+    background-color: papayawhip;
+}
+
+.Title {
+    background-color: #bc6a22;
+}
+
+nav {
+    background-color: #bc6a22;
+}
+
+div {
+    background: #ffcd55;
+    
+}
+
+div p {
+    font-size: 110%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a[href="https://www.facebook.com"] {
+    color: black;
+}
+
+/*img {
+    image-resolution: 25%;
+    background: papayawhip;
+}*/
+
+/*button:active {
+    background-color: papayawhip;
+}*/
+button {
+    background-color: #ebae42;
+    border-color: #f1ad4f;
+    width: 5%;
+}
+/*button:hover {
+    background-color: #bc6a22;
+}*/
+
+/*.tortilla*/::placeholder{
+    font-size: 65%;
+}
+.aguacate::placeholder {
+    font-size: 65%;
+}
+
+input {
+    width: 5%;
+}
